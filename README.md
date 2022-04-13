@@ -15,3 +15,7 @@ Agrego algo para probar cherry-pick
 Incluye ejemplos en Windows, Linux y Mac
 
 Disponible!
+
+CAmbio para probar git amend
+
+Lo que se agrega al commit...
